@@ -21,7 +21,7 @@ export default defineNuxtConfig({
         httpEndpoint: 'https://api.github.com/graphql',
         httpLinkOptions: {
           headers: {
-            authorization: 'Bearer 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',
+            authorization: 'Bearer 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',
           },
         },
       }
